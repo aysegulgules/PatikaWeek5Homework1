@@ -5,8 +5,8 @@ Program çalıştırıldığında, dizi elemanları rastgele sayılarla doldurul
 Kullanıcıdan yeni bir değer girmesi istenir.<br>
 Girilen değer diziye eklenir ve dizi büyükten küçüğe sıralanarak ekrana yazdırılır.<br>
 <H4>Gereksinimler</H4>
-.NET Core SDK
+.NET Core SDK<br>
 
 </span>
-![image](https://github.com/user-attachments/assets/6f0bf3a6-6b2e-4ddc-a1f8-28f58a216acd)
+<img>(https://github.com/user-attachments/assets/6f0bf3a6-6b2e-4ddc-a1f8-28f58a216acd)< /img>
 
