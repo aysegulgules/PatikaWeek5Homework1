@@ -8,5 +8,5 @@ Girilen değer diziye eklenir ve dizi büyükten küçüğe sıralanarak ekrana 
 .NET Core SDK<br>
 
 </span>
-<img>(https://github.com/user-attachments/assets/6f0bf3a6-6b2e-4ddc-a1f8-28f58a216acd)< /img>
+<img>(https://github.com/user-attachments/assets/6f0bf3a6-6b2e-4ddc-a1f8-28f58a216acd)
 
